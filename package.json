@@ -1,0 +1,26 @@
+{
+  "name": "awc-installer",
+  "version": "1.0.0",
+  "description": "Antergos Wallpaper Changer installer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RDashINC/awc-installer"
+  },
+  "author": "RainbowDashDC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RDashINC/awc-installer/issues"
+  },
+  "homepage": "https://github.com/RDashINC/awc-installer",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "simple-spinner": "0.0.3"
+  },
+  "devDependencies": {
+    "nexe": "*"
+  }
+}
